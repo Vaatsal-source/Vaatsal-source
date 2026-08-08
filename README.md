@@ -10,6 +10,6 @@
 * 🏆 **Hackathon Participant** — active in tech competitions and open-source communities.
 
 
-### 💻 Featured Projects & Achievements
+### 💻 Featured Projects 
 * **Project 1** — Quadrapod - A 12-DOF, 3D-printed quadruped ("spider") robot built on an Arduino Nano, with inverse-kinematics-driven leg motion.
 * **Project 2** — CodeSandbox - full-stack AI-powered coding workspace that generates Python code, runs it inside isolated Docker containers, and automatically debugs failed executions using a LangGraph workflow.
