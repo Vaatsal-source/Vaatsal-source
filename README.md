@@ -1,9 +1,9 @@
-# Hey there! I'm Vaatsal 👋
+# Hey there! I'm Vaatsalya 
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaatsalya-srivastava-196518378/)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaatsalya161@gmail.com)
 
-### 🤷 About Me
+###  About Me
 * 🎓 **B.Tech ECE @DTU** — focusing on high-performance systems, robotics, and ML.
 * 🔥 **Passionate about AI & ML** — building intelligent systems and scalable software.
 * 🤖 **Robotics & Embedded Dev** — working on autonomous systems and electronics hardware.
