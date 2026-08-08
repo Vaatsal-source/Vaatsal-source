@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there! I'm Vaatsal 👋
 
-<!--
-**Vaatsal-source/Vaatsal-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-Here are some ideas to get you started:
+### 🤷 About Me
+* 🎓 **B.Tech ECE @DTU** — focusing on high-performance systems, robotics, and ML.
+* 🔥 **Passionate about AI & ML** — building intelligent systems and scalable software.
+* 🤖 **Robotics & Embedded Dev** — working on autonomous systems and electronics hardware.
+* 🏆 **Hackathon Participant** — active in tech competitions and open-source communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 💻 Featured Projects & Achievements
+* **Project 1** — Quadrapod - A 12-DOF, 3D-printed quadruped ("spider") robot built on an Arduino Nano, with inverse-kinematics-driven leg motion.
+* **Project 2** — CodeSandbox - full-stack AI-powered coding workspace that generates Python code, runs it inside isolated Docker containers, and automatically debugs failed executions using a LangGraph workflow.
