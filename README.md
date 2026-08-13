@@ -43,12 +43,6 @@
   <img src="https://skillicons.dev/icons?i=sklearn" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_AI-FF6B35?style=for-the-badge" />
-</p>
 
 ### 💻 Languages
 
