@@ -36,12 +36,9 @@
 ### 🤖 AI / Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface,sklearn" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-</p>
 
 
 ### 💻 Languages
