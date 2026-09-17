@@ -80,59 +80,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🧠 Git Repo Analyser
-
-**Next.js • FastAPI • Neo4j • Qdrant • Gemini • LangGraph**
-
-AI-powered codebase intelligence platform using multi-agent RAG to understand and query large repositories.
-
-- ⚡ Reduced query latency from **1.2s → 120ms**
-- 🧠 Multi-agent orchestration using **LangGraph**
-- 🔎 Combines **vector + graph + relational retrieval**
-- 📊 Structured deterministic JSON responses
-
----
-
-### 🤖 Autonomous Sandbox Coding Agent
-
-**Next.js • FastAPI • LangGraph • Docker • Gemini**
-
-An autonomous coding workspace that generates Python code, executes it inside isolated Docker containers and automatically debugs failures.
-
-- 🐳 Sandboxed code execution
-- 🔄 Autonomous debugging & retry loop
-- 👨‍💻 Human-in-the-loop intervention
-- ⚡ ~2.2s end-to-end execution latency
-
----
-
-### 🛰️ E-CR-JEPA
-
-**PyTorch • Vision Transformers • Self-Supervised Learning**
-
-Cross-modal satellite image retrieval system for SAR → optical image retrieval.
-
-- 🧠 Vision Transformer architecture
-- 🔬 JEPA-based predictive learning
-- 🛰️ Cross-modal satellite image retrieval
-- 📈 Cross-Modal F1@10: **0.5885**
-
----
-
-### ✋ Hand Gesture Automator
-
-**TensorFlow • MediaPipe • OpenCV • React • PyAutoGUI**
-
-Real-time hand gesture recognition system for OS-level desktop automation.
-
-- 🖐️ 63-dimensional hand landmark features
-- 🎯 **91% gesture recognition accuracy**
-- ⚡ TensorFlow Lite deployment
-- 🖥️ Real-time OS automation
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
