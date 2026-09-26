@@ -28,59 +28,6 @@
 
 ---
 
-# ⚡ Tech Stack
-
-### 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" />
-</p>
-
-
-
-### 💻 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### 🌐 Web & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-</p>
-
-### ⚙️ Tools & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,linux,github" />
-</p>
-
----
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
 </p>
