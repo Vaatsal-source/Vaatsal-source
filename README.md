@@ -23,8 +23,7 @@
 - 🎓 **B.Tech ECE @ DTU** — focusing on high-performance systems, robotics, and ML.
 - 🔥 **Passionate about AI & ML** — building intelligent systems and scalable software.
 - 🤖 **Robotics & Embedded Development** — working with autonomous systems and electronics hardware.
-- 🏆 **Hackathon Participant** — active in technical competitions and open-source communities.
-- 🌱 Currently exploring **Agentic AI, RAG systems, computer vision, robotics, and open-source development.**
+- 🌱 Currently exploring **Agentic AI, ML, computer vision, robotics, open-source development and quantum computing.**
 
 ---
 
