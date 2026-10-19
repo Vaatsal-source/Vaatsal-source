@@ -1,11 +1,14 @@
-<h1 align="center">
-  Hey there I'm Vaatsalya !
-</h1>
+<p align="center">
+  <img
+    src="./header.svg"
+    alt="Hey there I'm Vaatsalya !"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+in+the+making;Robotics+%26+Embedded+Systems+Enthusiast;Full-Stack+Developer;Open-Source+Contributor;Building+Intelligent+Systems+%F0%9F%A4%96" />
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaatsalya-srivastava-196518378/">
