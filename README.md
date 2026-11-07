@@ -25,14 +25,6 @@
   technology. I care about clean engineering, scalable software and well-built hardware.
 </p>
 
-<p align="center">
-  <img
-    src="./assets/tech-stack.png"
-    alt="Tech stack"
-    width="100%"
-  />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -46,7 +38,8 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:650015,100:FF1744&height=120&section=footer"
+    src="./assets/Imagetag.png"
+    alt="Tech stack"
     width="100%"
   />
 </p>
