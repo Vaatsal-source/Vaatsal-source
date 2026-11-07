@@ -1,12 +1,4 @@
 <p align="center">
-  <img
-    src="./header.svg"
-    alt="Hey there I'm Vaatsalya !"
-    width="100%"
-  />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/vaatsalya-srivastava-196518378/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
