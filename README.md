@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="Pixelart1.jpg"
+    src="Pixelart2.png"
     alt="Pixel art rainy city"
     width="90%"
   />
