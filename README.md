@@ -13,7 +13,7 @@
 
 <p align="center">
   <img
-    src="./assets/city-banner.jpg"
+    src="Pixelart1.jpg"
     alt="Pixel art rainy city"
     width="90%"
   />
